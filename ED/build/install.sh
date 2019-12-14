@@ -52,7 +52,7 @@ args=$@
 # Initialize vars
 CLEAN=""
 KIND=""
-PLATFORM=""
+PLATFORM="mylab"
 OPT=""
 USE_GIT=true
 STEP=0
