@@ -4,7 +4,7 @@
 
 #
 
-ED_ROOT=../..
+ED_ROOT=/home/zhuyu/ED2/GitHub/ED2-master/ED2-master/ED
 
 # Versions.
 ED_VERSION=2.1
